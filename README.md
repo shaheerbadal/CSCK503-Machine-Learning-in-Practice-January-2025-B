@@ -20,7 +20,7 @@ Carry out the following tasks
 
 
   GROUP MEMBERS:
-Azhar Shaheer Badal -Project Manager/Machine Learning Engineer
-Mahinthan Balendran - Script creator for video presentation
-Emilia Fenn-Newbury - Report writer
-Rafiq Alnaseh - Video Creator and Presenter
+- Azhar Shaheer Badal -Project Manager/Machine Learning Engineer
+- Mahinthan Balendran - Script creator for video presentation
+- Emilia Fenn-Newbury - Report writer
+- Rafiq Alnaseh - Video Creator and Presenter
